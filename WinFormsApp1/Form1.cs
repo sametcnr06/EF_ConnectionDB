@@ -13,6 +13,7 @@ namespace WinFormsApp1
 
         }
 
+        //deneme github push iþlemi
         private void btnListele_Click(object sender, EventArgs e)
         {
             //dataGridView1.DataSource = _context.Products.ToList();
